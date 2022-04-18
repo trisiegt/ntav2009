@@ -1,0 +1,14 @@
+ProdKey
+
+SHA256Alg:
+8f3b3b55acd4af4fd72789380c71cb38
+
+Base64:
+UTVBNDlGRVVZVkw5WlgwMA==
+
+
+
+
+
+
+Q5A49FEUYVL9ZX00

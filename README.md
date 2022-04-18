@@ -8,8 +8,11 @@ That was it's source code.
 
 # Requirements
 Windows 10
+
 Microsoft .Net Framework DESKTOP Runtime 6.0
+
 Microsoft .Net Framework 6.0
+
 Microsoft .Net Runtime 6.0
 
 
